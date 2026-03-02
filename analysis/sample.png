@@ -1,0 +1,5 @@
+2026-02-26 10:12:03 INFO  User login success | user=vinnu | ip=192.168.1.10
+2026-02-26 10:14:22 WARNING  Failed login attempt | user=vinnu | ip=192.168.1.10
+2026-02-26 10:15:01 INFO  Blog created | user=vinnu | blog_id=45
+2026-02-26 10:16:40 ERROR  File upload failed | reason=Invalid format
+2026-02-26 10:18:05 INFO  User logout | user=vinnu
